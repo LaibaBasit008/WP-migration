@@ -10,9 +10,9 @@
   <li>Goto import in tools and install WordPress Run Plugin</li>
   <li>Activate Plugin and upload the XML file and set the author</li>
   <li>This ec2 instance will contain same WP site data from the first instance</li></ul>
-  <h4>Import/Export</h4><img src="I.PNG"/>
+  <h4>Import/Export</h4><img src="I.png"/>
   <h4>Site on first ec2</h4>
-  <img src="1.PNG"/>
+  <img src="1.png"/>
   
    <h4>Site on second ec2</h4>
-   <img src="2.PNG"/>
+   <img src="2.png"/>
